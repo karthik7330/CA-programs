@@ -1,1 +1,1 @@
-this is an updated sample repository with a small change.
+This is an updated sample repository with a small change.
